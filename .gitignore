@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper/task/build/
+/Minesweeper/task/out/
+/Minesweeper/task/out/production/classes/
+/Topics/Property accessors/Implement a class/out/
+/Topics/Property accessors/Implement a class/out/production/classes/
+/Topics/Random/SumIterator/out/
+/Topics/Random/SumIterator/out/production/classes/
+/Topics/Random/The Rock-Paper-Scissors game/out/
+/Topics/Random/The Rock-Paper-Scissors game/out/production/classes/
+/Topics/Random/Theory/out/
+/Topics/Random/Theory/out/production/classes/
+/Topics/Repeating blocks/Kotlin x5/out/
+/Topics/Repeating blocks/Kotlin x5/out/production/classes/
+/Topics/Repeating blocks/Theory/out/
+/Topics/Repeating blocks/Theory/out/production/classes/
